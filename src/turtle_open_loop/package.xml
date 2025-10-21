@@ -4,7 +4,7 @@
   <name>turtle_open_loop</name>
   <version>0.0.0</version>
   <description>CEG2001 - Tutorial 1</description>
-  <maintainer email="ict@sit">root</maintainer>
+  <maintainer email="ict@sit.edu.sg">root</maintainer>
   <license>NONE</license>
 
   <test_depend>ament_copyright</test_depend>

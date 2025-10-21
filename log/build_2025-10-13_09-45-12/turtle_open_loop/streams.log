@@ -1,0 +1,37 @@
+[0.572s] Invoking command in '/workspaces/ros_ws/T1-Open-Loop/src/turtle_open_loop': PYTHONPATH=/workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_open_loop build --build-base /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build install --record /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/install.log --single-version-externally-managed install_data
+[0.698s] running egg_info
+[0.698s] creating ../../build/turtle_open_loop/turtle_open_loop.egg-info
+[0.706s] writing ../../build/turtle_open_loop/turtle_open_loop.egg-info/PKG-INFO
+[0.708s] writing dependency_links to ../../build/turtle_open_loop/turtle_open_loop.egg-info/dependency_links.txt
+[0.709s] writing entry points to ../../build/turtle_open_loop/turtle_open_loop.egg-info/entry_points.txt
+[0.710s] writing requirements to ../../build/turtle_open_loop/turtle_open_loop.egg-info/requires.txt
+[0.710s] writing top-level names to ../../build/turtle_open_loop/turtle_open_loop.egg-info/top_level.txt
+[0.710s] writing manifest file '../../build/turtle_open_loop/turtle_open_loop.egg-info/SOURCES.txt'
+[0.725s] reading manifest file '../../build/turtle_open_loop/turtle_open_loop.egg-info/SOURCES.txt'
+[0.725s] writing manifest file '../../build/turtle_open_loop/turtle_open_loop.egg-info/SOURCES.txt'
+[0.725s] running build
+[0.725s] running build_py
+[0.726s] creating /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build
+[0.726s] creating /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build/lib
+[0.726s] creating /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build/lib/turtle_open_loop
+[0.726s] copying turtle_open_loop/open_loop_mover.py -> /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build/lib/turtle_open_loop
+[0.727s] copying turtle_open_loop/__init__.py -> /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build/lib/turtle_open_loop
+[0.727s] running install
+[0.730s] running install_lib
+[0.738s] creating /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages/turtle_open_loop
+[0.739s] copying /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build/lib/turtle_open_loop/open_loop_mover.py -> /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages/turtle_open_loop
+[0.739s] copying /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build/lib/turtle_open_loop/__init__.py -> /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages/turtle_open_loop
+[0.739s] byte-compiling /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages/turtle_open_loop/open_loop_mover.py to open_loop_mover.cpython-312.pyc
+[0.740s] byte-compiling /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages/turtle_open_loop/__init__.py to __init__.cpython-312.pyc
+[0.740s] running install_data
+[0.740s] creating /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/share/ament_index
+[0.740s] creating /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/share/ament_index/resource_index
+[0.741s] creating /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/share/ament_index/resource_index/packages
+[0.741s] copying resource/turtle_open_loop -> /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/share/ament_index/resource_index/packages
+[0.741s] copying package.xml -> /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/share/turtle_open_loop
+[0.741s] running install_egg_info
+[0.750s] Copying ../../build/turtle_open_loop/turtle_open_loop.egg-info to /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages/turtle_open_loop-0.0.0-py3.12.egg-info
+[0.751s] running install_scripts
+[0.806s] Installing open_loop_mover script to /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/turtle_open_loop
+[0.807s] writing list of installed files to '/workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/install.log'
+[0.823s] Invoked command in '/workspaces/ros_ws/T1-Open-Loop/src/turtle_open_loop' returned '0': PYTHONPATH=/workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_open_loop build --build-base /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build install --record /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/install.log --single-version-externally-managed install_data

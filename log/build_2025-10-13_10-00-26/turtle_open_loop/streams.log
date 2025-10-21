@@ -1,0 +1,25 @@
+[0.391s] Invoking command in '/workspaces/ros_ws/T1-Open-Loop/src/turtle_open_loop': PYTHONPATH=/workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_open_loop build --build-base /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build install --record /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/install.log --single-version-externally-managed install_data
+[0.506s] running egg_info
+[0.513s] writing ../../build/turtle_open_loop/turtle_open_loop.egg-info/PKG-INFO
+[0.515s] writing dependency_links to ../../build/turtle_open_loop/turtle_open_loop.egg-info/dependency_links.txt
+[0.516s] writing entry points to ../../build/turtle_open_loop/turtle_open_loop.egg-info/entry_points.txt
+[0.516s] writing requirements to ../../build/turtle_open_loop/turtle_open_loop.egg-info/requires.txt
+[0.516s] writing top-level names to ../../build/turtle_open_loop/turtle_open_loop.egg-info/top_level.txt
+[0.531s] reading manifest file '../../build/turtle_open_loop/turtle_open_loop.egg-info/SOURCES.txt'
+[0.531s] writing manifest file '../../build/turtle_open_loop/turtle_open_loop.egg-info/SOURCES.txt'
+[0.531s] running build
+[0.531s] running build_py
+[0.531s] copying turtle_open_loop/open_loop_square.py -> /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build/lib/turtle_open_loop
+[0.532s] running install
+[0.535s] running install_lib
+[0.542s] copying /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build/lib/turtle_open_loop/open_loop_square.py -> /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages/turtle_open_loop
+[0.543s] byte-compiling /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages/turtle_open_loop/open_loop_square.py to open_loop_square.cpython-312.pyc
+[0.543s] running install_data
+[0.543s] running install_egg_info
+[0.551s] removing '/workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages/turtle_open_loop-0.0.0-py3.12.egg-info' (and everything under it)
+[0.551s] Copying ../../build/turtle_open_loop/turtle_open_loop.egg-info to /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages/turtle_open_loop-0.0.0-py3.12.egg-info
+[0.552s] running install_scripts
+[0.605s] Installing open_loop_mover script to /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/turtle_open_loop
+[0.605s] Installing open_loop_square script to /workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/turtle_open_loop
+[0.606s] writing list of installed files to '/workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/install.log'
+[0.622s] Invoked command in '/workspaces/ros_ws/T1-Open-Loop/src/turtle_open_loop' returned '0': PYTHONPATH=/workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspaces/ros_ws/T1-Open-Loop/install/turtle_open_loop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_open_loop build --build-base /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/build install --record /workspaces/ros_ws/T1-Open-Loop/build/turtle_open_loop/install.log --single-version-externally-managed install_data
